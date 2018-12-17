@@ -13,9 +13,9 @@ But, if pressed, how would you **prove** it?
 ## WeatherPy
 
 In this assignment I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
-To accomplish this, i utilised the following: 
-* [simple Python library](https://pypi.python.org/pypi/citipy), 
-* the [OpenWeatherMap API](https://openweathermap.org/api), and 
+To accomplish this, I utilised the following: 
+* [Citipy Python library](https://pypi.python.org/pypi/citipy), 
+* [OpenWeatherMap API](https://openweathermap.org/api), and 
 * A little common sense to create a representative model of weather across world cities.
 
 Our objective is to build a series of scatter plots to showcase the following relationships:
